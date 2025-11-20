@@ -1,5 +1,5 @@
 ## 🌸 Hey there, lovely human! Welcome to my GitHub ✨
---------------------------------------------------------------------------------------------------------------------------
+
 Thanks for stopping by! This is my cozy little tech space where I build things, break things (sometimes 😅), and learn something new every single day.
 
 I'm Janhavi — passionate about **Data Analytics, Power BI dashboards, AI/ML, and turning raw data into stories** that actually make sense. If you’re here to explore projects, get inspired, or just see how another techie navigates this wild journey — you’re in the perfect place 💛
