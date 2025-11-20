@@ -18,12 +18,12 @@ I'm Janhavi — passionate about **Data Analytics, Power BI dashboards, AI/ML, a
 Let’s grow together — you bring the snacks, I’ll bring the code 🍪💻
 
 
-**🌐 Connect With Me**
+## **🌐 Connect With Me**
 
 🌟 LinkedIn: https://linkedin.com/in/janhavilele13
 
 
-**💻 Tech Stack**
+## **💻 Tech Stack**
 
 Python • SQL • Power BI • Tableau • Excel • Pandas • NumPy • Matplotlib • Seaborn • MySQL • MS SQL Server • Git • Docker • Jenkins
 
